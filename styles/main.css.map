@@ -1,11 +1,8 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AAAA,OAAO,CAAP,gFAAO;AACP,OAAO,CAAP,4EAAO;AACP,OAAO,CAAP,4EAAO",
     "sources": [
-        "main.scss",
-        "variables.scss",
-        "index.scss",
-        "items.scss"
+        "main.scss"
     ],
     "names": [],
     "file": "main.css"
